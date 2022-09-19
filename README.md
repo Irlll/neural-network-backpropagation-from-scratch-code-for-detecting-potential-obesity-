@@ -112,7 +112,7 @@ Dalam prosesnya, backpropagation berkerja dengan cara melakukan 2 tahap perhitun
 
 <br>
 
-## Backrpopagation Formula
+## Backpropagation Formula
 
 ### Forward Pass
 
