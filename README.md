@@ -1398,6 +1398,10 @@ biash3<sup>+</sup> = biash3 - $\eta$ \* $\frac{\partial E}{\partial biash3}$
 
 <br>
 
+Perhitungan ini terus berlanjut hingga input sample terakhir. Hal ini disebut bahwa telah menyelesaikan 1 epoch. Pada proyek ini perhitungan dilakukan sebanyak 200 epoch agar error semakin mengecil dan prediksi semakin akurat.
+
+<br>
+
 ## Result
 
 ### Excel
